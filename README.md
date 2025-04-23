@@ -2,7 +2,7 @@
 
 A simple web app to track days spent outside the UK for residency purposes.
 
-⚠️ **DISCLAIMER**: This app was created as a personal project and "vibe-coded" (built quickly without rigorous testing). It should NOT be trusted blindly for immigration or legal purposes. Always double-check your calculations with official guidance and consider consulting an immigration professional for important decisions.
+⚠️ **DISCLAIMER**: This app was created as a personal project and vibe-coded. It should NOT be trusted blindly for immigration or legal purposes. Always double-check your calculations with official guidance and consider consulting an immigration professional for important decisions.
 
 ## Features
 
